@@ -11,8 +11,8 @@ Final project for students of It Cloud Academy (https://itcloud.academy/)
 3. [Js requirements](#js-requirements)
 
 ### Description
----
-### Installations and usage
+--- You need to create contact app like google contacts. feel fre to use any libraries and frameworks that you need.
+### Installations and development
 ---
 #### Project Init
 #### Server configuration
