@@ -59,8 +59,8 @@ For db.json file you use this object
         "id": 1,
         "firstName": "John",
         "secondName": "Doe",
-        "phone": +380666666666,
-        "email": john.doe@example.com,
+        "phone": 380666666666,
+        "email": "john.doe@example.com",
     }
   ],
   "profile": { "name": "typicode" }
