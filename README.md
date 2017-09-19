@@ -49,7 +49,7 @@ For more information about work with npm [here](https://docs.npmjs.com/getting-s
 
 For development server you will use JSON-server by typicode;
 
-You can read documentation and installation guide on (this page)[https://github.com/typicode/json-server];
+You can read documentation and installation guide on [this page](https://github.com/typicode/json-server);
 
 For db.json file you use this object
 ``` json
