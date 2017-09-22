@@ -51,7 +51,7 @@ For development server you will use JSON-server by typicode;
 
 You can read documentation and installation guide on [this page](https://github.com/typicode/json-server);
 
-For db.json file you use this object
+For db.json file use this object
 ``` json
 {
   "contacts": [
@@ -60,7 +60,10 @@ For db.json file you use this object
         "firstName": "John",
         "secondName": "Doe",
         "phone": 380666666666,
+        "birthday": "01.01.2000",
+        "website": "http://example.com"
         "email": "john.doe@example.com",
+        "company": "freelance"
     }
   ],
   "profile": { "name": "typicode" }
