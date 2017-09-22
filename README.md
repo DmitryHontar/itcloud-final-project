@@ -61,7 +61,7 @@ For db.json file use this object
         "secondName": "Doe",
         "phone": 380666666666,
         "birthday": "01.01.2000",
-        "website": "http://example.com"
+        "website": "http://example.com",
         "email": "john.doe@example.com",
         "company": "freelance"
     }
