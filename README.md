@@ -20,8 +20,10 @@ App must include functionality:
 + show info of contact in modal window;
 + filter contacts by input field;
 + sort users by several points;
++ validation for contact name and phone;
 
-Browser requirements: IE9+ adn last 5 versions of modern browsers;
+Browser requirements: IE9+ and last 5 versions of modern browsers;
+
 Screen resolution:
 + desktop (min - 1280 - 1024);
 + tablet (min - 768 - 1024);
