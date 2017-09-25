@@ -12,7 +12,7 @@ Final project for students of It Cloud Academy (https://itcloud.academy/)
 
 ### Description
 ---
-You need to create contact app like google contacts. Feel fre to use any libraries and frameworks that you need.
+You need to create contact app like google contacts. Feel free to use any libraries and frameworks that you need.
 
 App must include functionality: 
 + show list of contacts;
